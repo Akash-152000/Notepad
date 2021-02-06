@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>icons_notepad/about.png</file>
+        <file>icons_notepad/copy.png</file>
+        <file>icons_notepad/cut.png</file>
+        <file>icons_notepad/New File.png</file>
+        <file>icons_notepad/open.png</file>
+        <file>icons_notepad/Redo.png</file>
+        <file>icons_notepad/save.png</file>
+        <file>icons_notepad/save_as.png</file>
+        <file>icons_notepad/Undo.png</file>
+        <file>icons_notepad/Paste.png</file>
+    </qresource>
+</RCC>
